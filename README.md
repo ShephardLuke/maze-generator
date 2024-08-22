@@ -9,3 +9,5 @@ Drag the complexity slider to change how complex the maze should be, then press 
 
 # Notes
 I made this just to learn how maze generation algoritms work. It is one of my smaller programs with under 200 lines, so maybe I could make it into something bigger one day.
+
+Made in about 2 days in January 2022
